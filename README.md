@@ -23,3 +23,6 @@ Update Product Page by Admin
 ---
 Update Orders Status
 ![UpdateOrderStatus](updateorderstatus.png)
+---
+ER Diagram
+![ERD](ERD.png)
