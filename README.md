@@ -9,4 +9,4 @@ Henry Wat: Database design and business model programming
 Jason Lin: UI and UX design and presentation layer programming
 ---
 screen shots:
-![Collections](collections.jpg)
+![Collections](collections.png)
