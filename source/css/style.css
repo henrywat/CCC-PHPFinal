@@ -1,0 +1,73 @@
+body,h1,h2,h3,h4,h5,h6 {
+    font-family: "Inconsolata", sans-serif;
+}
+
+body, html {
+    height: 100%;
+    color: #777;
+    line-height: 1.8;
+}
+
+a:hover {
+    color: red;
+}
+
+.heroimg {
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("../img/trendy-interior-wall-paint.png");
+    min-height: 100%;
+    filter:saturate(120%);
+}
+
+.pagetitle {
+    min-height: 20%;
+    filter:saturate(120%);
+    background-position: center center;
+    background-image: url("../img/rain.jpeg");
+}
+
+.w3-wide {
+    letter-spacing: 8px;
+    font-weight: bolder;
+}
+
+.w3-hover-opacity { 
+    cursor: pointer;
+}
+
+.aboutimg1 {
+    width: 100%;
+    margin: 0px;
+    float: left;
+}
+
+.col-25 {
+    float: left;
+    width: 25%;
+    margin-top: 6px;
+}
+
+.col-75 {
+    float: left;
+    width: 75%;
+    margin-top: 6px;
+}
+
+label {
+    padding: 12px 12px 12px 0;
+    display: inline-block;
+}
+
+.w3-display-middle {
+    top: 60%!important;
+}
+
+@media only screen and (max-width: 1600px) {
+    .heroimg {
+        background-attachment: scroll;
+        min-height: 400px;
+    }
+}
