@@ -15,8 +15,11 @@ Collections Page
 Orders Page
 ![Orders](orders.png)
 ---
-Update Product Page
+Order Detail
+![OrderDetail](orderdetail.png)
+---
+Update Product Page by Admin
 ![UpdateProduct](updateproduct.png)
 ---
 Update Orders Status
-![UpdateOrderStatus](orderstatus)
+![UpdateOrderStatus](updateorderstatus.png)
