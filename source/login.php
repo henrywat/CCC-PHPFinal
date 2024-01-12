@@ -37,11 +37,12 @@
             </div>
         </div>
     </div>
-    <!--div class="w3-content w3-container">
+    <div class="w3-content w3-container">
+        <p>BELOW LOINGS FOR TESTING PURPOSE</p>
         <p>usera / users</p>
         <p>userb / users</p>
         <p>admin / users</p>
-    </div-->
+    </div>
     <!-- Footer -->
     <?php include "include/footer.php"; ?>
 
