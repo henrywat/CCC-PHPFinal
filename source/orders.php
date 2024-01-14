@@ -59,7 +59,7 @@ $page_first_result = ($page-1) * $results_per_page;
 
 $uid = $_SESSION["uid"];
 if ($uid == "0") {
-    $sql = "select o.id, o.place_time, o.total_amount, o.status, u.name, u.full_name from ecom.orders o, ecom.users u where u.id = o.user_id order by place_time desc;";
+    $sql = "select o.id, o.place_time, o.total_amount, o.status, u.name, o.full_name from ecom.orders o, ecom.users u where u.id = o.user_id order by place_time desc;";
     $result = $conn->query($sql);
 
     //determine the total number of pages available  
