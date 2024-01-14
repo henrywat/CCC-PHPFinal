@@ -11,7 +11,6 @@ Jason Lin: UI and UX design and presentation layer programming<br>
 ---
 Bugs Fix:<br><br>
 <p>13 Jan 2024: "Name" value of orders page is replace by "orders" table field "full_name" instead of "users" table.
-</p>
 ---
 Screen Shots:<br><br>
 Collections Page
