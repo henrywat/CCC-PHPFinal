@@ -14,13 +14,13 @@ Collections Page
 ![Collections](collections.png)
 ---
 Orders Page
-![Orders](orders.png)
+![Orders](orders.png2)
 ---
 Order Detail
 ![OrderDetail](orderdetail.png)
 ---
 Update Product Page by Admin
-![UpdateProduct](updateproduct.png)
+![UpdateProduct](updateproduct.png2)
 ---
 Update Orders Status
 ![UpdateOrderStatus](updateorderstatus.png)
