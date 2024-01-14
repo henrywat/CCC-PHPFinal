@@ -9,6 +9,9 @@ Submission Date: 13 Jan 2024
 Henry Wat: Database design and business model programming<br>
 Jason Lin: UI and UX design and presentation layer programming<br>
 ---
+**Bugs fix**
+<p>13 Jan 2024: "Name" value of orders page is replace by 'orders' table field 'full_name' instead of 'users' table.</p>
+---
 screen shots:<br>
 Collections Page
 ![Collections](collections.png)
