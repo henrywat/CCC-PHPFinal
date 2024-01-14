@@ -14,7 +14,7 @@ Collections Page
 ![Collections](collections.png)
 ---
 Orders Page
-![Orders](orders.png2)
+![Orders](orders.png)
 ---
 Order Detail
 ![OrderDetail](orderdetail.png)
@@ -23,7 +23,7 @@ Update Product Page by Admin
 ![UpdateProduct](updateproduct.png)
 ---
 Update Orders Status
-![UpdateOrderStatus](updateorderstatus.png2)
+![UpdateOrderStatus](updateorderstatus.png)
 ---
 ER Diagram
 ![ERD](ERD.png)
