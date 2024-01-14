@@ -20,10 +20,10 @@ Order Detail
 ![OrderDetail](orderdetail.png)
 ---
 Update Product Page by Admin
-![UpdateProduct](updateproduct.png2)
+![UpdateProduct](updateproduct.png)
 ---
 Update Orders Status
-![UpdateOrderStatus](updateorderstatus.png)
+![UpdateOrderStatus](updateorderstatus.png2)
 ---
 ER Diagram
 ![ERD](ERD.png)
