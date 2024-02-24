@@ -4,7 +4,7 @@ Create Career College - PHP and Database Final Project by Henry Wat and Jason Li
 Tutor: Parveen<br>
 Submission Date: 13 Jan 2024
 ---
-[Nippon Paint eShop](https://hwts.myqnapcloud.com/phpfinal)
+Nippon Paint eShop
 <br>
 Henry Wat: Database design and business model programming<br>
 Jason Lin: UI and UX design and presentation layer programming<br>
