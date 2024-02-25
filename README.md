@@ -1,4 +1,4 @@
-# PHPFinal
+# CCC - PHPDB Final Project
 Create Career College - PHP and Database Final Project by Henry Wat and Jason Lin
 ---
 Tutor: Parveen<br>
