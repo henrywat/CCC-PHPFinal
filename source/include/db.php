@@ -3,7 +3,7 @@ session_start();
 //date.timezone = "America/Vancouver";
 $servername = "localhost";
 $username = "root";
-$password = "P@ssw0rd";
+$password = "xxxxxxxx";
 $socket = "/var/run/mariadb10.sock";
 $dbname = "ecom";
 
