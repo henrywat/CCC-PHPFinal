@@ -1,32 +1,44 @@
 # CCC - PHPDB Final Project
-Create Career College - PHP and Database Final Project by Henry Wat and Jason Lin
+<p>Create Career College - PHP and Database Final Project by Henry Wat and Jason Lin</p>
+
 ---
-Tutor: Parveen<br>
-Submission Date: 13 Jan 2024
+
+## Tutor: Parveen
+## Submission Date: 13 Jan 2024
+
+### Technologies:
+- PHP
+- SQL
+
 ---
-Nippon Paint eShop
-<br>
-Henry Wat: Database design and business model programming<br>
-Jason Lin: UI and UX design and presentation layer programming<br>
+
+## Nippon Paint eShop
+### Henry Wat: Database design and business model programming
+### Jason Lin: UI and UX design and presentation layer programming
+
 ---
-Bugs Fix:<br><br>
-13 Jan 2024: "Name" value of orders page is replace by "orders" table field "full_name" instead of "users" table.
+
+### Bugs Fix:
+- 13 Jan 2024: "Name" value of orders page is replace by "orders" table field "full_name" instead of "users" table.
+
 ---
-Screen Shots:<br><br>
-Collections Page
+
+## Screen Shots:
+
+### [Collections](collections.png)
 ![Collections](collections.png)
----
-Orders Page
+
+### [Orders](orders.png)
 ![Orders](orders.png)
----
-Order Detail
-![OrderDetail](orderdetail.png)
----
-Update Product Page by Admin
-![UpdateProduct](updateproduct.png)
----
-Update Orders Status
-![UpdateOrderStatus](updateorderstatus.png)
----
-ER Diagram
-![ERD](ERD.png)
+
+### [Order Detail](orderdetail.png)
+![Order Detail](orderdetail.png)
+
+### [Admin Update Product](updateproduct.png)
+![Admin Update Product](updateproduct.png)
+
+### [Update Order Status](updateorderstatus.png)
+![Update Order Status](updateorderstatus.png)
+
+### [ER Diagranm](ERD.png)
+![ER Diagranm](ERD.png)
